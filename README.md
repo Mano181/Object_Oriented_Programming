@@ -1,7 +1,16 @@
-# Object_Oriented_Programming
 <html>
-  <body  style="color:blue;">
-<h3>Abstraction</h3><br>
-<p  >Abstraction is an important aspect of object-oriented programming. In python, we can also perform data hiding by adding the double underscore (___) as a prefix to the attribute which is to be hidden. After this, the attribute will not be visible outside of the class through the object.</p>
-  </body>
+<head>
+<style>
+p{
+	color:red;
+}
+h2{
+	color:blue;
+}
+</style>
+</head>
+<body>
+<h1 style="color:blue;"> Object Oriented Programming</h1>
+<p>Oject Oriented programming is the problem solving approach and used where computation is done by using objects</p>
+</body>
 </html>
